@@ -4,10 +4,10 @@ from requests.utils import requote_uri
 
 api_key = "mwVGnhDAq6v0k0nupQXETJx9oZLyErl3"
 
-search_terms = ['image']
+search_terms = ['imag2e']
 
 results_count = 0
-patent_info_list = []
+patent_info_list = [] 
 
 for search_term in search_terms:
     print(search_term)
