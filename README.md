@@ -1,2 +1,3 @@
 # uspto
-uspto_api pull
+uspto_api scratch 
+faiss
